@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="jpg">
+    <file>计算机视觉2.jpg</file>
+    <file>计算机视觉1.jpg</file>
+    <file>按钮图片4.jpg</file>
+    <file>按钮图片2.jpg</file>
+    <file>6.jpg</file>
+    <file>按钮图片1.jpg</file>
+    <file>按钮图片3.jpg</file>
+    <file>R.jpg</file>
+    <file>计算机视觉.png</file>
+    <file>zjut.jpg</file>
+    <file>2.jpg</file>
+  </qresource>
+</RCC>
